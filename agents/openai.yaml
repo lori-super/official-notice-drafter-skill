@@ -1,0 +1,4 @@
+interface:
+  display_name: "Official Notice Drafter"
+  short_description: "Draft complete formal Chinese notices from rough input."
+  default_prompt: "Use $official-notice-drafter to draft a complete formal Chinese notice from my rough requirements."
